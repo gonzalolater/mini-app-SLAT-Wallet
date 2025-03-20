@@ -31,3 +31,5 @@ To use the application, you'll need to:
 View docs: [Docs](https://docs.world.org/)
 
 [Developer Portal](https://developer.worldcoin.org/)
+
+![image](https://github.com/user-attachments/assets/af42f9a4-9d95-4eef-a746-48fa36028d74)
